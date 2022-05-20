@@ -1,0 +1,45 @@
+{
+    "nama": "Gustia Nanda Elfitra Santi",
+    "status": "mahasiswi",
+    "prodi": "sistem informasi",
+    "education": [
+        {
+            "name": "Formal Education"
+        },
+        {
+            "name": "Non Formal Education"
+        }
+    ],
+    "sosial_media": [
+        {
+            "type": "instagram",
+            "name": "@nanda_elf02"
+        },
+        {
+            "type": "facebook",
+            "name": "Nanda"
+        }
+    ],
+    "formal_education": [
+        {
+            "name": "Elementary school 2 Dwijaya (2008- 2014)"
+        },
+        {
+            "name": "Junior High School O Mangunharjo (2014-2017)"
+        },
+        {
+            "name": "Senior High School Tugumulyo ( 2017-2020)"
+        },
+        {
+            "name": "University of Ahmad Dahlan (2020-now)"
+        }
+    ],
+    "non_formal_education": [
+        {
+            "name": "Bimbingan Belajar Al-Kwarismi Matematika (2012-2016)"
+        },
+        {
+            "name": "Bimbingan Belajar Primagama (2014-2015)"
+        }
+    ]
+}
